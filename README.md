@@ -1,0 +1,2 @@
+# Netlify NextJS TailwindCSS Starter
+ 
